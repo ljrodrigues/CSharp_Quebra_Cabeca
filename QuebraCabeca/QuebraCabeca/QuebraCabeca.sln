@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuebraCabeca", "QuebraCabeca.csproj", "{73D516D3-3E35-473C-952E-03C7E91FD37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D516D3-3E35-473C-952E-03C7E91FD37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D516D3-3E35-473C-952E-03C7E91FD37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D516D3-3E35-473C-952E-03C7E91FD37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D516D3-3E35-473C-952E-03C7E91FD37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBC8EBF-655C-4079-858A-9B9CA5B7650C}
+	EndGlobalSection
+EndGlobal

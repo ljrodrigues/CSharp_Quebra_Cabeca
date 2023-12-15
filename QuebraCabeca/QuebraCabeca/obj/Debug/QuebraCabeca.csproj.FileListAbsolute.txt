@@ -1,0 +1,11 @@
+C:\Estudo\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.exe.config
+C:\Estudo\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.exe
+C:\Estudo\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.pdb
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.AssemblyReference.cache
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.SuggestedBindingRedirects.cache
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.Properties.Resources.resources
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.GenerateResource.cache
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.CoreCompileInputs.cache
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.exe
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.pdb
+C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.frmQuebraCabeca.resources
