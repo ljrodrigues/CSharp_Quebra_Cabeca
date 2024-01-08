@@ -9,3 +9,14 @@ C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.CoreCompileInp
 C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.exe
 C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.pdb
 C:\Estudo\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.frmQuebraCabeca.resources
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.exe.config
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.exe
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\bin\Debug\QuebraCabeca.pdb
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.AssemblyReference.cache
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.SuggestedBindingRedirects.cache
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.frmQuebraCabeca.resources
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.Properties.Resources.resources
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.GenerateResource.cache
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.csproj.CoreCompileInputs.cache
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.exe
+C:\Estudo\CSharpWindowsForm\QuebraCabeca\QuebraCabeca\obj\Debug\QuebraCabeca.pdb
